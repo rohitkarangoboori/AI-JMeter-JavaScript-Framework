@@ -1,0 +1,1 @@
+{"name":"ai-jmeter-js","version":"1.0.0","type":"module","scripts":{"generate":"node src/index.js generate","run":"node src/index.js run","analyze":"node src/index.js analyze","all":"node src/index.js all"},"dependencies":{"yaml":"^2.6.1","fast-xml-parser":"^4.5.1","dotenv":"^16.4.5"},"engines":{"node":">=20"}}
